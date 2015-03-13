@@ -1,0 +1,167 @@
+http://tester/trellis/A.mellifera/unknown
+
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
+<TYPES xmlns="http://biodas.org/documents/das2" xml:base="http://tester/trellis/A.mellifera/">
+   <TYPE uri="AU8_null_null" title="Apis mellifera AU8 (AU8)" ontology="http://tester/trellis/A.mellifera/unknown" so_accession="http://tester/trellis/A.mellifera/unknown">
+      <FORMAT name="bed" mimetype="text/bed" />
+      <FORMAT name="jbrowse-flat-json" mimetype="application/json" />
+      <FORMAT name="jbrowse-nclist-json" mimetype="application/json" />
+      <FORMAT name="jbrowse-nclist-full-json" mimetype="application/json" />
+   </TYPE>
+   <TYPE uri="fgenesh_no_rnaseq_null_null" title="Apis mellifera fgenesh_no_rnaseq (fgenesh_no_rnaseq)" ontology="http://tester/trellis/A.mellifera/unknown" so_accession="http://tester/trellis/A.mellifera/unknown">
+      <FORMAT name="bed" mimetype="text/bed" />
+      <FORMAT name="jbrowse-flat-json" mimetype="application/json" />
+      <FORMAT name="jbrowse-nclist-json" mimetype="application/json" />
+      <FORMAT name="jbrowse-nclist-full-json" mimetype="application/json" />
+   </TYPE>
+   <TYPE uri="embryo_null_null" title="Apis mellifera embryo (embryo)" ontology="http://tester/trellis/A.mellifera/unknown" so_accession="http://tester/trellis/A.mellifera/unknown">
+      <FORMAT name="bed" mimetype="text/bed" />
+      <FORMAT name="jbrowse-flat-json" mimetype="application/json" />
+      <FORMAT name="jbrowse-nclist-json" mimetype="application/json" />
+      <FORMAT name="jbrowse-nclist-full-json" mimetype="application/json" />
+   </TYPE>
+   <TYPE uri="acep_OGSv1_null_1_exonerate" title="Apis mellifera acep_OGSv1.1_exonerate (acep_OGSv1)" ontology="http://tester/trellis/A.mellifera/unknown" so_accession="http://tester/trellis/A.mellifera/unknown">
+      <FORMAT name="bed" mimetype="text/bed" />
+      <FORMAT name="jbrowse-flat-json" mimetype="application/json" />
+      <FORMAT name="jbrowse-nclist-json" mimetype="application/json" />
+      <FORMAT name="jbrowse-nclist-full-json" mimetype="application/json" />
+   </TYPE>
+   <TYPE uri="fgeneshpp_with_rnaseq_null_null" title="Apis mellifera fgeneshpp_with_rnaseq (fgeneshpp_with_rnaseq)" ontology="http://tester/trellis/A.mellifera/unknown" so_accession="http://tester/trellis/A.mellifera/unknown">
+      <FORMAT name="bed" mimetype="text/bed" />
+      <FORMAT name="jbrowse-flat-json" mimetype="application/json" />
+      <FORMAT name="jbrowse-nclist-json" mimetype="application/json" />
+      <FORMAT name="jbrowse-nclist-full-json" mimetype="application/json" />
+   </TYPE>
+   <TYPE uri="nurse_null_null" title="Apis mellifera nurse (nurse)" ontology="http://tester/trellis/A.mellifera/unknown" so_accession="http://tester/trellis/A.mellifera/unknown">
+      <FORMAT name="bed" mimetype="text/bed" />
+      <FORMAT name="jbrowse-flat-json" mimetype="application/json" />
+      <FORMAT name="jbrowse-nclist-json" mimetype="application/json" />
+      <FORMAT name="jbrowse-nclist-full-json" mimetype="application/json" />
+   </TYPE>
+   <TYPE uri="lhum_OGSv1_null_1_exonerate" title="Apis mellifera lhum_OGSv1.1_exonerate (lhum_OGSv1)" ontology="http://tester/trellis/A.mellifera/unknown" so_accession="http://tester/trellis/A.mellifera/unknown">
+      <FORMAT name="bed" mimetype="text/bed" />
+      <FORMAT name="jbrowse-flat-json" mimetype="application/json" />
+      <FORMAT name="jbrowse-nclist-json" mimetype="application/json" />
+      <FORMAT name="jbrowse-nclist-full-json" mimetype="application/json" />
+   </TYPE>
+   <TYPE uri="Amel_2_null_0_OGSv1_gmap" title="Apis mellifera Amel_2.0_OGSv1_gmap (Amel_2)" ontology="http://tester/trellis/A.mellifera/unknown" so_accession="http://tester/trellis/A.mellifera/unknown">
+      <FORMAT name="bed" mimetype="text/bed" />
+      <FORMAT name="jbrowse-flat-json" mimetype="application/json" />
+      <FORMAT name="jbrowse-nclist-json" mimetype="application/json" />
+      <FORMAT name="jbrowse-nclist-full-json" mimetype="application/json" />
+   </TYPE>
+   <TYPE uri="Sanger_EST_null_null" title="Apis mellifera Sanger_EST (Sanger_EST)" ontology="http://tester/trellis/A.mellifera/unknown" so_accession="http://tester/trellis/A.mellifera/unknown">
+      <FORMAT name="bed" mimetype="text/bed" />
+      <FORMAT name="jbrowse-flat-json" mimetype="application/json" />
+      <FORMAT name="jbrowse-nclist-json" mimetype="application/json" />
+      <FORMAT name="jbrowse-nclist-full-json" mimetype="application/json" />
+   </TYPE>
+   <TYPE uri="NCBI_RefSeq_null_null" title="Apis mellifera NCBI_RefSeq (NCBI_RefSeq)" ontology="http://tester/trellis/A.mellifera/unknown" so_accession="http://tester/trellis/A.mellifera/unknown">
+      <FORMAT name="bed" mimetype="text/bed" />
+      <FORMAT name="jbrowse-flat-json" mimetype="application/json" />
+      <FORMAT name="jbrowse-nclist-json" mimetype="application/json" />
+      <FORMAT name="jbrowse-nclist-full-json" mimetype="application/json" />
+   </TYPE>
+   <TYPE uri="hsal_OGSv3_null_3_exonerate" title="Apis mellifera hsal_OGSv3.3_exonerate (hsal_OGSv3)" ontology="http://tester/trellis/A.mellifera/unknown" so_accession="http://tester/trellis/A.mellifera/unknown">
+      <FORMAT name="bed" mimetype="text/bed" />
+      <FORMAT name="jbrowse-flat-json" mimetype="application/json" />
+      <FORMAT name="jbrowse-nclist-json" mimetype="application/json" />
+      <FORMAT name="jbrowse-nclist-full-json" mimetype="application/json" />
+   </TYPE>
+   <TYPE uri="_null_null" title="Apis mellifera . ()" ontology="http://tester/trellis/A.mellifera/unknown" so_accession="http://tester/trellis/A.mellifera/unknown">
+      <FORMAT name="bed" mimetype="text/bed" />
+      <FORMAT name="jbrowse-flat-json" mimetype="application/json" />
+      <FORMAT name="jbrowse-nclist-json" mimetype="application/json" />
+      <FORMAT name="jbrowse-nclist-full-json" mimetype="application/json" />
+   </TYPE>
+   <TYPE uri="nvit_OGSv1_null_2_exonerate" title="Apis mellifera nvit_OGSv1.2_exonerate (nvit_OGSv1)" ontology="http://tester/trellis/A.mellifera/unknown" so_accession="http://tester/trellis/A.mellifera/unknown">
+      <FORMAT name="bed" mimetype="text/bed" />
+      <FORMAT name="jbrowse-flat-json" mimetype="application/json" />
+      <FORMAT name="jbrowse-nclist-json" mimetype="application/json" />
+      <FORMAT name="jbrowse-nclist-full-json" mimetype="application/json" />
+   </TYPE>
+   <TYPE uri="mixed_antennae_null_null" title="Apis mellifera mixed_antennae (mixed_antennae)" ontology="http://tester/trellis/A.mellifera/unknown" so_accession="http://tester/trellis/A.mellifera/unknown">
+      <FORMAT name="bed" mimetype="text/bed" />
+      <FORMAT name="jbrowse-flat-json" mimetype="application/json" />
+      <FORMAT name="jbrowse-nclist-json" mimetype="application/json" />
+      <FORMAT name="jbrowse-nclist-full-json" mimetype="application/json" />
+   </TYPE>
+   <TYPE uri="sp_meta_exonerate_null_null" title="Apis mellifera sp_meta_exonerate (sp_meta_exonerate)" ontology="http://tester/trellis/A.mellifera/unknown" so_accession="http://tester/trellis/A.mellifera/unknown">
+      <FORMAT name="bed" mimetype="text/bed" />
+      <FORMAT name="jbrowse-flat-json" mimetype="application/json" />
+      <FORMAT name="jbrowse-nclist-json" mimetype="application/json" />
+      <FORMAT name="jbrowse-nclist-full-json" mimetype="application/json" />
+   </TYPE>
+   <TYPE uri="dmel_r5_null_31_exonerate" title="Apis mellifera dmel_r5.31_exonerate (dmel_r5)" ontology="http://tester/trellis/A.mellifera/unknown" so_accession="http://tester/trellis/A.mellifera/unknown">
+      <FORMAT name="bed" mimetype="text/bed" />
+      <FORMAT name="jbrowse-flat-json" mimetype="application/json" />
+      <FORMAT name="jbrowse-nclist-json" mimetype="application/json" />
+      <FORMAT name="jbrowse-nclist-full-json" mimetype="application/json" />
+   </TYPE>
+   <TYPE uri="forager_null_null" title="Apis mellifera forager (forager)" ontology="http://tester/trellis/A.mellifera/unknown" so_accession="http://tester/trellis/A.mellifera/unknown">
+      <FORMAT name="bed" mimetype="text/bed" />
+      <FORMAT name="jbrowse-flat-json" mimetype="application/json" />
+      <FORMAT name="jbrowse-nclist-json" mimetype="application/json" />
+      <FORMAT name="jbrowse-nclist-full-json" mimetype="application/json" />
+   </TYPE>
+   <TYPE uri="abdomen_null_null" title="Apis mellifera abdomen (abdomen)" ontology="http://tester/trellis/A.mellifera/unknown" so_accession="http://tester/trellis/A.mellifera/unknown">
+      <FORMAT name="bed" mimetype="text/bed" />
+      <FORMAT name="jbrowse-flat-json" mimetype="application/json" />
+      <FORMAT name="jbrowse-nclist-json" mimetype="application/json" />
+      <FORMAT name="jbrowse-nclist-full-json" mimetype="application/json" />
+   </TYPE>
+   <TYPE uri="fgeneshpp_no_rnaseq_null_null" title="Apis mellifera fgeneshpp_no_rnaseq (fgeneshpp_no_rnaseq)" ontology="http://tester/trellis/A.mellifera/unknown" so_accession="http://tester/trellis/A.mellifera/unknown">
+      <FORMAT name="bed" mimetype="text/bed" />
+      <FORMAT name="jbrowse-flat-json" mimetype="application/json" />
+      <FORMAT name="jbrowse-nclist-json" mimetype="application/json" />
+      <FORMAT name="jbrowse-nclist-full-json" mimetype="application/json" />
+   </TYPE>
+   <TYPE uri="brain_ovary_null_null" title="Apis mellifera brain_ovary (brain_ovary)" ontology="http://tester/trellis/A.mellifera/unknown" so_accession="http://tester/trellis/A.mellifera/unknown">
+      <FORMAT name="bed" mimetype="text/bed" />
+      <FORMAT name="jbrowse-flat-json" mimetype="application/json" />
+      <FORMAT name="jbrowse-nclist-json" mimetype="application/json" />
+      <FORMAT name="jbrowse-nclist-full-json" mimetype="application/json" />
+   </TYPE>
+   <TYPE uri="testes_null_null" title="Apis mellifera testes (testes)" ontology="http://tester/trellis/A.mellifera/unknown" so_accession="http://tester/trellis/A.mellifera/unknown">
+      <FORMAT name="bed" mimetype="text/bed" />
+      <FORMAT name="jbrowse-flat-json" mimetype="application/json" />
+      <FORMAT name="jbrowse-nclist-json" mimetype="application/json" />
+      <FORMAT name="jbrowse-nclist-full-json" mimetype="application/json" />
+   </TYPE>
+   <TYPE uri="cflo_OGSv3_null_3_exonerate" title="Apis mellifera cflo_OGSv3.3_exonerate (cflo_OGSv3)" ontology="http://tester/trellis/A.mellifera/unknown" so_accession="http://tester/trellis/A.mellifera/unknown">
+      <FORMAT name="bed" mimetype="text/bed" />
+      <FORMAT name="jbrowse-flat-json" mimetype="application/json" />
+      <FORMAT name="jbrowse-nclist-json" mimetype="application/json" />
+      <FORMAT name="jbrowse-nclist-full-json" mimetype="application/json" />
+   </TYPE>
+   <TYPE uri="larvae_null_null" title="Apis mellifera larvae (larvae)" ontology="http://tester/trellis/A.mellifera/unknown" so_accession="http://tester/trellis/A.mellifera/unknown">
+      <FORMAT name="bed" mimetype="text/bed" />
+      <FORMAT name="jbrowse-flat-json" mimetype="application/json" />
+      <FORMAT name="jbrowse-nclist-json" mimetype="application/json" />
+      <FORMAT name="jbrowse-nclist-full-json" mimetype="application/json" />
+   </TYPE>
+   <TYPE uri="geneid_v1_null_4" title="Apis mellifera geneid_v1.4 (geneid_v1)" ontology="http://tester/trellis/A.mellifera/unknown" so_accession="http://tester/trellis/A.mellifera/unknown">
+      <FORMAT name="bed" mimetype="text/bed" />
+      <FORMAT name="jbrowse-flat-json" mimetype="application/json" />
+      <FORMAT name="jbrowse-nclist-json" mimetype="application/json" />
+      <FORMAT name="jbrowse-nclist-full-json" mimetype="application/json" />
+   </TYPE>
+   <TYPE uri="AU9_null_null" title="Apis mellifera AU9 (AU9)" ontology="http://tester/trellis/A.mellifera/unknown" so_accession="http://tester/trellis/A.mellifera/unknown">
+      <FORMAT name="bed" mimetype="text/bed" />
+      <FORMAT name="jbrowse-flat-json" mimetype="application/json" />
+      <FORMAT name="jbrowse-nclist-json" mimetype="application/json" />
+      <FORMAT name="jbrowse-nclist-full-json" mimetype="application/json" />
+   </TYPE>
+   <TYPE uri="ovary_null_null" title="Apis mellifera ovary (ovary)" ontology="http://tester/trellis/A.mellifera/unknown" so_accession="http://tester/trellis/A.mellifera/unknown">
+      <FORMAT name="bed" mimetype="text/bed" />
+      <FORMAT name="jbrowse-flat-json" mimetype="application/json" />
+      <FORMAT name="jbrowse-nclist-json" mimetype="application/json" />
+      <FORMAT name="jbrowse-nclist-full-json" mimetype="application/json" />
+   </TYPE>
+   <TYPE uri="pbar_OGSv1_null_1_exonerate" title="Apis mellifera pbar_OGSv1.1_exonerate (pbar_OGSv1)" ontology="http://tester/trellis/A.mellifera/unknown" so_accession="http://tester/trellis/A.mellifera/unknown">
+      <FORMAT name="bed" mimetype="text/bed" />
+      <FORMAT name="jbrowse-flat-json" mimetype="application/json" />
+      <FORMAT name="jbrowse-nclist-json" mimetype="application/json" />
+      <FORMAT name="jbrowse-nclist-full-json" mimetype="application/json" />
+   </TYPE>
+</TYPES>

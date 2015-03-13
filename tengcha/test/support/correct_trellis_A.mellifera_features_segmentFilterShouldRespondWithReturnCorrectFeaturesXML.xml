@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
+<FEATURES xmlns="http://biodas.org/documents/das2" xml:base="http://tester/trellis/A.mellifera/">
+   <FEATURE uri="1511449" title="GB13984-RA_GroupUn1044" type="match">
+      <LOC segment="GroupUn1044" range="109:928:-1" />
+      <PART uri="1511450" />
+   </FEATURE>
+   <FEATURE uri="1511450" title="GB13984-RA_GroupUn1044_1" type="match_part">
+      <LOC segment="GroupUn1044" range="109:928:-1" />
+      <PARENT uri="1511449" />
+   </FEATURE>
+   <FEATURE uri="3907551" title="GB13984-RA_GroupUn1044" type="gene">
+      <LOC segment="GroupUn1044" range="109:928:-1" />
+      <PART uri="3907552" />
+   </FEATURE>
+   <FEATURE uri="3907552" title="GB13984-RA_GroupUn1044_mRNA" type="mRNA">
+      <LOC segment="GroupUn1044" range="112:928:-1" />
+      <PARENT uri="3907551" />
+      <PART uri="3907553" />
+   </FEATURE>
+   <FEATURE uri="3907553" title="auto3907553" type="exon">
+      <LOC segment="GroupUn1044" range="109:928:-1" />
+      <PARENT uri="3907552" />
+   </FEATURE>
+   <FEATURE uri="1098782" title="GL631392.1_1" type="gene">
+      <LOC segment="GroupUn1044" range="109:928:-1" />
+      <PART uri="1098783" />
+   </FEATURE>
+   <FEATURE uri="1098783" title="GL631392.1_1_mRNA" type="mRNA">
+      <LOC segment="GroupUn1044" range="109:928:-1" />
+      <PARENT uri="1098782" />
+      <PART uri="1098784" />
+   </FEATURE>
+   <FEATURE uri="1098784" title="auto1098784" type="exon">
+      <LOC segment="GroupUn1044" range="109:928:-1" />
+      <PARENT uri="1098783" />
+   </FEATURE>
+   <FEATURE uri="1098785" title="GL631392.1_2" type="gene">
+      <LOC segment="GroupUn1044" range="1165:1432:1" />
+      <PART uri="1098786" />
+   </FEATURE>
+   <FEATURE uri="1098786" title="GL631392.1_2_mRNA" type="mRNA">
+      <LOC segment="GroupUn1044" range="1165:1432:1" />
+      <PARENT uri="1098785" />
+      <PART uri="1098787" />
+   </FEATURE>
+   <FEATURE uri="1098787" title="auto1098787" type="exon">
+      <LOC segment="GroupUn1044" range="1165:1432:1" />
+      <PARENT uri="1098786" />
+   </FEATURE>
+</FEATURES>

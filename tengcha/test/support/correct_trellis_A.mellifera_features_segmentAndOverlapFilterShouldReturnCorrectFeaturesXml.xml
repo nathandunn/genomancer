@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
+<FEATURES xmlns="http://biodas.org/documents/das2" xml:base="http://localhost:8080/jbrowse/trellis/A.mellifera/">
+   <!-- another gene on opposite strand --> 
+   <!-- gene -->
+   <FEATURE uri="GL631392.1_2" type="geneid_v1.4">
+      <LOC segment="GroupUn1044" range="1165:1432:1" />
+      <PART uri="GL631392.1_1_mRNA" />
+   </FEATURE>
+   <!-- mrna -->
+   <FEATURE uri="GL631392.1_1_mRNA" type="geneid_v1.4">
+      <LOC segment="GroupUn1044" range="1165:1432:1" />
+      <PARENT uri="GL631392.1_2" />
+      <PART uri="auto1098787" />
+   </FEATURE>
+   <!-- exon -->
+   <FEATURE uri="auto1098787" type="geneid_v1.4">
+      <LOC segment="GroupUn1044" range="1165:1432:1" />
+      <PARENT uri="GL631392.1_1_mRNA" />
+      <PART uri="auto1126008" />
+      <PART uri="auto1126010" />
+   </FEATURE>
+   <!-- polypeptides -->
+   <FEATURE uri="auto1126008" type=".">
+      <LOC segment="GroupUn1044" range="1165:1432:1" />
+      <PARENT uri="auto1098787" />
+   </FEATURE>
+   <FEATURE uri="auto1126010" type=".">
+      <LOC segment="GroupUn1044" range="1165:1432:1" />
+      <PARENT uri="auto1098787" />
+   </FEATURE>
+</FEATURES>
+
+

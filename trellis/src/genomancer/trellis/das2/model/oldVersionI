@@ -1,0 +1,67 @@
+package genomancer.trellis.das2.model;
+
+import java.util.List;
+import java.util.Map;
+
+/**
+ * 
+ *   base interface for both DasVersionI (for versioned sources with DAS 1.53E capabilities) 
+ *       and Das2VersionI (for versioned sources with DAS/2.0 capabilities)
+ *
+ *   it's possible to have versioned sources with both DAS 1.53E and DAS 2.0 capabilities
+ *       (the DAS1-->DAS2 transformational proxy may do this)
+ *
+ *   it's also possible that in the future there will be versioned sources that support neither 
+ *        DAS 1.53E nor DAS/2.0 capabilities but only currently unknown extensions -- VersionI should 
+ *        be able to represent these versioned sources as well
+ *  
+ */
+public interface VersionI extends Das2CommonDataI {
+
+/**
+ * <p>Does ...</p>
+ * 
+ * 
+ * @return 
+ */
+    public String getDescription();
+
+/**
+ * <p>Does ...</p>
+ * 
+ * 
+ * @return 
+ */
+    public java.util.Date getCreationDate();
+
+/**
+ * <p>Does ...</p>
+ * 
+ * 
+ * @return 
+ */
+    public java.util.Date getLastModifiedDate();
+
+    public String getMaintainerEmail();
+
+/**
+ * List of all capabilities
+ * 
+ * @return 
+ */
+    public List<Das2CapabilityI> getCapabilities();
+
+
+    public Das2CapabilityI getCapability(String type);
+
+/**
+ * <p>Does ...</p>
+ * 
+ * 
+ * @return 
+ */
+    public List<Das2CoordinatesI> getCoordinates();
+
+}
+
+

@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
+<SOURCES xmlns="http://biodas.org/documents/das2" xml:base="http://tester/trellis/">
+   <MAINTAINER email="maintainer_email@wherever" />
+   <SOURCE uri="Apis_mellifera" title="Apis_mellifera">
+      <VERSION uri="A.mellifera" title="Apis_mellifera (honeybee) Baylor assembly 4.5">
+         <COORDINATES uri="A.mellifera/coords" source="scaffold" authority="authority_placeholder" version="A.mellifera" taxid="Apis_mellifera" />
+         <CAPABILITY type="segments" query_uri="A.mellifera/segments" />
+         <CAPABILITY type="types" query_uri="A.mellifera/types" />
+         <CAPABILITY type="features" query_uri="A.mellifera/features" />
+      </VERSION>
+   </SOURCE>
+</SOURCES>
